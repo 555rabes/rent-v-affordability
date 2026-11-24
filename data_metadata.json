@@ -1,0 +1,37 @@
+{
+  "updated_at_utc": "2026-11-24T22:40:57+00:00",
+  "sources": {
+    "rent": {
+      "name": "ONS Price Index of Private Rents",
+      "url": "https://www.ons.gov.uk/file?uri=/economy/inflationandpriceindices/datasets/priceindexofprivaterentsukmonthlypricestatistics/18november2026/priceindexofprivaterentsukmonthlypricestatistics10.xlsx",
+      "last_checked_utc": "2026-11-24T22:40:57+00:00",
+      "latest_observation": "2026-10"
+    },
+    "house_prices": {
+      "name": "HM Land Registry UK House Price Index",
+      "url": "https://www.gov.uk/government/statistical-data-sets/uk-house-price-index-data-downloads-september-2026",
+      "download_url": "https://publicdata.landregistry.gov.uk/market-trend-data/house-price-index-data/UK-HPI-full-file-2026-09.csv?utm_medium=GOV.UK&utm_source=datadownload&utm_campaign=full_fil&utm_term=9.30_18_11_26",
+      "last_checked_utc": "2026-11-24T22:40:57+00:00",
+      "latest_observation": "2026-09"
+    },
+    "earnings": {
+      "name": "ONS ASHE Table 8, median gross annual pay, full-time employees",
+      "url": "https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/placeofresidencebylocalauthorityashetable8/2026provisional/ashetable82026provisional.zip",
+      "last_checked_utc": "2026-11-24T22:40:57+00:00",
+      "latest_observation": "2026-04"
+    },
+    "mortgage_rates": {
+      "name": "Bank of England quoted two-year fixed mortgage rates by LTV",
+      "url": "https://www.bankofengland.co.uk/boeapps/iadb/fromshowcolumns.asp",
+      "series_codes": {
+        "60": "IUMZICQ",
+        "75": "IUMBV34",
+        "85": "IUMZICR",
+        "90": "IUMB482",
+        "95": "IUM2WTL"
+      },
+      "last_checked_utc": "2026-11-24T22:40:57+00:00",
+      "latest_observation": "2026-10"
+    }
+  }
+}
